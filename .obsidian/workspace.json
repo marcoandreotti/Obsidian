@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0793d73664d40e0",
+        "id": "4cf220fda4ed385f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e8795c2f9ea3b2",
+            "id": "b1ffd65c75450f9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -162,13 +162,27 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "d51177524d9480b1",
+            "type": "leaf",
+            "state": {
+              "type": "codex-panel-view",
+              "state": {
+                "version": 1,
+                "threadId": "01a108bd-b858-7381-8b2f-44b5ac1ff126",
+                "threadTitle": "Olá"
+              },
+              "icon": "bot-message-square",
+              "title": "Codex: Olá"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +192,13 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "codex-panel:Open panel": false
     }
   },
-  "active": "f4e8795c2f9ea3b2",
-  "lastOpenFiles": []
+  "active": "b1ffd65c75450f9d",
+  "lastOpenFiles": [
+    "README.md",
+    "Arquiteturando/Projetos/OrderHub/09 - Agentes/Regras Obrigatórias.md"
+  ]
 }

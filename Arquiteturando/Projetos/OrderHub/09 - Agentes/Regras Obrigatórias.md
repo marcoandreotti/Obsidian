@@ -1,4 +1,4 @@
-﻿# Regras Obrigatórias
+# Regras Obrigatórias
 
 Resumo de `AGENTS.md`; confirme o texto oficial antes de cada mudança.
 
