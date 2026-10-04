@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "6d6f7e54bc3473df",
+    "type": "split",
+    "children": [
+      {
+        "id": "d69895fcae1b24f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7be103aa5a00bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7af4061e4e2a5789",
+    "type": "split",
+    "children": [
+      {
+        "id": "a561d322a57f52cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9592388fd9906c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c16caf59d81ccbdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "97f6cdce66e50222",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a3c3da723db0acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5bca72669b8378f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "558a1717c2270de4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "66522adffd654097",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "ad2da0e04d7a312f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2eeb5417bdb00c16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "c5ffba0cd42e4a7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "a4d691d3f7e68b55",
+            "type": "leaf",
+            "state": {
+              "type": "codex-panel-view",
+              "state": {
+                "version": 1,
+                "threadId": "01a1073d-a435-7a12-bb3e-774182da3994",
+                "threadTitle": "Saudação inicial"
+              },
+              "icon": "bot-message-square",
+              "title": "Codex: Saudação inicial"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 530.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "codex-panel:Open panel": false
+    }
+  },
+  "active": "ab7be103aa5a00bc",
+  "lastOpenFiles": [
+    "Projetos/OrderHub/03 - API/Módulos e Endpoints.md",
+    "Projetos/OrderHub/10 - Evolução/Melhorias Identificadas.md",
+    "Projetos/OrderHub/10 - Evolução/Estado Atual.md",
+    "Projetos/OrderHub/10 - Evolução/Dívidas Técnicas.md",
+    "Projetos/OrderHub/10 - Evolução/Backlog Técnico.md",
+    "Sem título.canvas",
+    "Projetos/OrderHub/01 - Produto/Objetivo do Produto.md",
+    "Projetos/OrderHub/01 - Produto/Fluxos Principais.md",
+    "Projetos/OrderHub/01 - Produto/Estado Atual.md",
+    "Projetos/OrderHub/05 - Domínio/Pedido.md",
+    "Projetos/OrderHub/03 - API/Autenticação e Autorização.md",
+    "Projetos/OrderHub/00 - Home/Como navegar no cofre.md",
+    "Bússola de desenvolvimento para agentes.md",
+    "Projetos/OrderHub/01 - Produto/Usuários e Perfis.md",
+    "Projetos/OrderHub/05 - Domínio/Produto e Catálogo.md",
+    "Projetos/OrderHub/05 - Domínio/Provisionamento de Tenant.md",
+    "Projetos/OrderHub/05 - Domínio/Multi-tenancy.md",
+    "Projetos/OrderHub/08 - Guias/Checklist de Desenvolvimento.md",
+    "Projetos/OrderHub/08 - Guias/Como adicionar uma Regra de Negócio.md",
+    "Projetos/OrderHub/08 - Guias/Como criar uma nova Tela.md",
+    "Projetos/OrderHub/08 - Guias/Como criar um novo Endpoint.md",
+    "Projetos/OrderHub/08 - Guias/Como criar uma nova Feature.md",
+    "Projetos/OrderHub/08 - Guias/Guias.md",
+    "Projetos/OrderHub/09 - Agentes/Frontend - Guia do Agente.md",
+    "Projetos/OrderHub/09 - Agentes/Backend - Guia do Agente.md",
+    "Projetos/OrderHub/09 - Agentes/Antes de Alterar o Código.md",
+    "Projetos/OrderHub/09 - Agentes/Regras Obrigatórias.md",
+    "Projetos/OrderHub/10 - Evolução",
+    "Projetos/OrderHub/09 - Agentes",
+    "Projetos/OrderHub/08 - Guias",
+    "Projetos/OrderHub/07 - Decisões/ADRs",
+    "Projetos/OrderHub/07 - Decisões",
+    "Projetos/OrderHub/06 - Padrões",
+    "Projetos/OrderHub/05 - Domínio",
+    "Projetos/OrderHub/04 - WEB",
+    "Projetos/OrderHub/03 - API",
+    "Projetos/OrderHub/02 - Arquitetura"
+  ]
+}
