@@ -1,4 +1,4 @@
-﻿# Mapa do Projeto
+# Mapa do Projeto
 
 Raiz do repositório: `C:\Users\marco\source\repos\OrderHub`.
 
@@ -25,7 +25,7 @@ Raiz do repositório: `C:\Users\marco\source\repos\OrderHub`.
 
 Testes: `tests/OrderHub.Domain.Tests/`, `tests/OrderHub.Application.Tests/`, `tests/OrderHub.Architecture.Tests/`, `tests/OrderHub.Integration.Tests/`. Web organizada em `src/router/`, `layouts/`, `modules/`, `components/`, `http/`, `boot/`, `themes/`, `css/`; testes em `web/OrderHub.Web/tests/`.
 
-Configuração importante: `Directory.Build.props`, `.csproj`, `OrderHub.sln`, `appsettings*.json`, `.env.example`, Compose, Dockerfiles, `package.json`, Quasar/Vitest configs e scripts Web. O `.env` local não foi lido/copied para o cofre.
+Configuração importante: `Directory.Build.props`, `.csproj`, `OrderHub.sln`, `appsettings*.json`, `.env.example`, Compose, Dockerfiles, `package.json`, Quasar/Vitest configs e scripts Web. O `.env` local não foi lido nem copiado para o cofre.
 
 Detalhes: [[03 - API/Módulos e Endpoints|Módulos e Endpoints]] · [[04 - WEB/Estrutura Frontend|Estrutura Frontend]].
 

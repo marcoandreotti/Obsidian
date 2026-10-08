@@ -1,6 +1,6 @@
 # Visão Geral
 
-`PRODUCT.md` descreve OrderHub como plataforma SaaS multi-tenant para bares, restaurantes, pizzarias e similares. Conecta gestão do estabelecimento, pedidos públicos e operação de atendimento/cozinha para digitalizar o ciclo do pedido, da configuração à conclusão operacional.
+`PRODUCT.md` descreve OrderHub como plataforma SaaS multi-tenant para bares, restaurantes, pizzarias e similares; `openspec/project.md` registra o mesmo enquadramento em outra redação. Conecta gestão do estabelecimento, pedidos públicos e operação de atendimento/cozinha para digitalizar o ciclo do pedido, da configuração à conclusão operacional.
 
 ## Problema descrito
 

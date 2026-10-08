@@ -1,4 +1,4 @@
-﻿# Multi-tenancy
+# Multi-tenancy
 
 OrderHub separa Tenant (cliente SaaS) e Estabelecimento (unidade operacional). Administradores pertencem a tenant e acesso pode ser limitado por unidade; usuário de plataforma é identidade distinta. Isolamento deve ser verificado na autorização, contexto da requisição, query, escrita, jobs e outbox conforme `AGENTS.md` e specs.
 

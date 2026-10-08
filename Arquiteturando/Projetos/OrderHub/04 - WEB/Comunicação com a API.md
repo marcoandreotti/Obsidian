@@ -1,4 +1,4 @@
-﻿# Comunicação com a API
+# Comunicação com a API
 
 `src/http/client.ts` cria Axios com `withCredentials`; injeta `X-Correlation-ID` e `X-CSRF-Token`; bloqueia respostas de revisão de sessão obsoleta; coordena refresh de 401 concorrente e repete uma vez quando permitido. `ApiError` interpreta ProblemDetails/erros de campo. `boot/http.ts` liga hooks de sessão e roteador.
 

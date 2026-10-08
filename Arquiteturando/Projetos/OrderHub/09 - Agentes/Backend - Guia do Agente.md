@@ -1,4 +1,4 @@
-﻿# Backend - Guia do Agente
+# Backend - Guia do Agente
 
 Estude nesta ordem: `AGENTS.md` → `openspec/specs/architecture/` + `AGENTS.md` + ADRs e ADR → spec OpenSpec → exemplo do módulo → testes. Fluxo típico observado: Endpoint Minimal API → contrato/dispatcher Application → validator/handler → Domain → portas → Infrastructure write EF ou read Dapper → PostgreSQL; resposta mapeada pelo endpoint.
 

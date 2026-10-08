@@ -1,4 +1,4 @@
-﻿# Fluxo de uma Requisição
+# Fluxo de uma Requisição
 
 ## Escrita
 

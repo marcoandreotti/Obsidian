@@ -12,10 +12,11 @@ OrderHub é uma aplicação SaaS multi-tenant voltada a estabelecimentos de alim
 4. [[Domínio]] → [[Contextos de Negócio]] → [[Pedido]]
 5. [[Padrões]] e [[Diretrizes para Agentes]]
 6. [[Decisões]] e [[10 - Evolução/Estado Atual|Estado Atual]]
+7. Para agentes de programação: [[Bússola de desenvolvimento para agentes|Bússola]] → [[Diretrizes para Agentes]]
 
 ## Áreas do conhecimento
 
-- Produto: [[Visão Geral]], [[Usuários e Perfis]], [[Fluxos Principais]], [[01 - Produto/Estado Atual|Estado do Produto]]
+- Produto: [[Visão Geral]], [[Usuários e Perfis]], [[Fluxos Principais]], [[01 - Produto/Estado Atual do Produto|Estado do Produto]]
 - Arquitetura: [[Arquitetura]], [[Mapa de Componentes]], [[Dependências entre Camadas]]
 - [[API]] · [[WEB]] · [[Domínio]] · [[Padrões]] · [[Decisões]] · [[Guias]]
 - Agentes: [[Diretrizes para Agentes]] · [[Antes de Alterar o Código]]
@@ -24,7 +25,9 @@ OrderHub é uma aplicação SaaS multi-tenant voltada a estabelecimentos de alim
 
 ## Estado rápido
 
-Solução inclui onboarding/tenancy, autenticação, catálogo, ordering, operações/KDS, clientes, entrega, pagamentos, promoções, reporting e notifications. Mudanças OpenSpec ainda ativas: [[Backlog Técnico]]. Avaliações de restaurante e de produtos pelo usuário público (nota 1–5, comentário obrigatório abaixo de 3) são **proposta do cofre**, sem implementação — ver [[Avaliações e Classificação]]. Primeiro commit disponível 2026-09-02; janela aferida de 32 dias até HEAD 2026-10-04; não prova início real.
+Solução inclui onboarding/tenancy, autenticação, catálogo, ordering, operações/KDS, clientes, entrega, pagamentos, promoções, reporting e notifications. Mudanças OpenSpec ainda ativas: [[Backlog Técnico]]. Avaliações de restaurante e de produtos pelo usuário público (nota 1–5, comentário obrigatório abaixo de 3) são **proposta do cofre**, sem implementação — ver [[Avaliações e Classificação]]. Primeiro commit disponível 2026-09-02; janela aferida de 32 dias até HEAD 2026-10-04 (33 commits); não prova início real.
+
+Reconferência em 2026-10-07: checkout `6384863` (2026-10-06), árvore limpa, 35 commits e janela de 34 dias desde 2026-09-02. O snapshot de 2026-10-04 acima permanece como registro.
 
 ## Confiança
 

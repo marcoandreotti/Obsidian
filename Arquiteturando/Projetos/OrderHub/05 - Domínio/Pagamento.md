@@ -1,4 +1,4 @@
-﻿# Pagamento
+# Pagamento
 
 O projeto modela métodos e operações/estados de pagamento associados a pedidos. Domínio e aplicação: `src/OrderHub.Domain/Payments/`, `src/OrderHub.Application/Payments/`; infraestrutura read/write; configurações WEB em `modules/administration/payment-methods/`.
 

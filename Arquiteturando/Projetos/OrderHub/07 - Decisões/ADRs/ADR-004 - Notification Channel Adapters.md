@@ -1,8 +1,8 @@
-﻿# ADR-004 - Notification Channel Adapters
+# ADR-004 - Notification Channel Adapters
 
 ## Contexto e decisão
 
-[ADR-004 original](file:///C:/Users/marco/source/repos/OrderHub/openspec/decisions/ADR-004-notification-channel-adapters.md) registra arquitetura de adapters para canais de notificação.
+O original em `openspec/decisions/ADR-004-notification-channel-adapters.md` registra arquitetura de adapters para canais de notificação.
 
 ## Motivo
 
@@ -15,5 +15,9 @@ Há abstrações e implementação de canais incluindo SMTP e integração Whats
 ## Alternativas
 
 Ver ADR original.
+
+## Referências
+
+`openspec/specs/communications/notification-gateway/`, `docs/notification-gateway.md`.
 
 

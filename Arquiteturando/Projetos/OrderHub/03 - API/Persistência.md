@@ -1,4 +1,4 @@
-﻿# Persistência
+# Persistência
 
 PostgreSQL é store principal, usado por caminhos separados de leitura e escrita.
 

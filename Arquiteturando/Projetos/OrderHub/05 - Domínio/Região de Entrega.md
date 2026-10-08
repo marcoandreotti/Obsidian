@@ -1,4 +1,4 @@
-﻿# Região de Entrega
+# Região de Entrega
 
 Região de entrega delimita cobertura por CEP/faixa de código postal e guarda taxa e estimativa. Domain Delivery, Application/Infrastructure Delivery e módulo WEB de configuração.
 

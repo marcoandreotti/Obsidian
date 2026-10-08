@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6ffcef29a50039",
+        "id": "3595164b146fe7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ff980a62c21c338e",
+            "id": "2b447111ebd86542",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 631.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,20 +219,22 @@
       "dsh-harness:Open DeepSeek Harness": false
     }
   },
-  "active": "ff980a62c21c338e",
+  "active": "2b447111ebd86542",
   "lastOpenFiles": [
+    "Arquiteturando/Projetos/OrderHub/05 - Domínio/Região de Entrega.md",
+    "Arquiteturando/Bússola de desenvolvimento para agentes.md",
+    "Arquiteturando/Projetos/OrderHub/01 - Produto/Estado Atual do Produto.md",
+    "Arquiteturando/Projetos/OrderHub/05 - Domínio/Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/08 - Guias/Como adicionar uma Regra de Negócio.md",
     "Arquiteturando/Projetos/OrderHub/10 - Evolução/Proposta - Avaliações e Classificação.md",
     "Arquiteturando/Projetos/OrderHub/03 - API/Endpoints de Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Classificação e Reputação.md",
-    "Arquiteturando/Projetos/OrderHub/05 - Domínio/Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Avaliações e Classificação.md",
     "Arquiteturando/Projetos/OrderHub/00 - Home/Como navegar no cofre.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Estado Atual.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Pedido.md",
     "README.md",
-    "Arquiteturando/Bússola de desenvolvimento para agentes.md",
     "Arquiteturando/Projetos/OrderHub/09 - Agentes/Regras Obrigatórias.md",
     "Arquiteturando/Projetos/OrderHub/03 - API/Camadas da API.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Visão Geral.md",

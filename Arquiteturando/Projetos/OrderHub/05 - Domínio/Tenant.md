@@ -1,4 +1,4 @@
-﻿# Tenant
+# Tenant
 
 **Arquivo:** `src/OrderHub.Domain/Tenancy/Tenant.cs` · **Classe:** `Tenant`.
 

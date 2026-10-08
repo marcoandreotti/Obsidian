@@ -1,4 +1,4 @@
-﻿# Testes e Async
+# Testes e Async
 
 Projetos de teste: Domain, Application, Architecture, Integration; WEB usa Vitest. Siga convenção mais próxima e requisitos de AGENTS.md/Definition of Done. Não afirmar que suíte passou sem executá-la; a análise que produziu estas notas não executou testes.
 

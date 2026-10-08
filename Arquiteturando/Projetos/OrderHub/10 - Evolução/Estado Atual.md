@@ -29,6 +29,6 @@ Checkout em `6384863`, árvore limpa: dois commits depois do snapshot acima. O c
 
 Proposta em estudo, **não implementada**: avaliações de restaurante e de produtos pelo usuário público — [[Avaliações e Classificação]] e [[Proposta - Avaliações e Classificação]].
 
-Relacionados: [[01 - Produto/Estado Atual|Estado do Produto]], [[Backlog Técnico]], [[Dívidas Técnicas]], [[Melhorias Identificadas]].
+Relacionados: [[01 - Produto/Estado Atual do Produto|Estado do Produto]], [[Backlog Técnico]], [[Dívidas Técnicas]], [[Melhorias Identificadas]].
 
 

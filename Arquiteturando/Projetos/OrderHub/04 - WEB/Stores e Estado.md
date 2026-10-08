@@ -1,4 +1,4 @@
-﻿# Stores e Estado
+# Stores e Estado
 
 Pinia está em `package.json`; estado observado é feature-scoped:
 

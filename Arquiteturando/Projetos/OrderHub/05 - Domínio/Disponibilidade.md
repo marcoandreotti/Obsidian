@@ -1,4 +1,4 @@
-﻿# Disponibilidade
+# Disponibilidade
 
 Configuração de horários de funcionamento, pausas, exceções, fuso horário e estado ativo da unidade condiciona disponibilidade do pedido agendado e atendimento. Código em Domain Operations e Application Availability; UI `web/OrderHub.Web/src/modules/administration/availability/` (confirmar arquivos específicos no checkout).
 

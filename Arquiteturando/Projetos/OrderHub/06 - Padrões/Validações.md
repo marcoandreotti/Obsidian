@@ -1,4 +1,4 @@
-﻿# Validações
+# Validações
 
 AGENTS.md exige FluentValidation para inputs, associada aos casos Application; regras invariantes pertencem ao Domain e não devem ser duplicadas no endpoint. Entrada de UI ajuda usabilidade, mas API/domain permanecem autoritativos.
 

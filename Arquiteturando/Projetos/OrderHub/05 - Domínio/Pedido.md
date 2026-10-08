@@ -1,4 +1,4 @@
-# <span style="color: red;">Pedido</span>
+# Pedido
 
 Pedido é o agregado central do fluxo de venda. Código: `src/OrderHub.Domain/Ordering/Order.cs`; aplicação em `src/OrderHub.Application/Ordering/`; persistência em Infrastructure; rotas públicas e administrativas na API; interfaces em módulos WEB public-ordering e operations.
 
@@ -12,6 +12,6 @@ O pedido preserva snapshots relevantes de itens/preços e dados de entrega; alte
 
 ## Referências
 
-Código: `src/OrderHub.Domain/Ordering/Order.cs`, `OrderItem.cs`, `OrderStatus.cs`; specs em `openspec/specs/ordering/`; testes `tests/OrderHub.Domain.Tests/Ordering/`, `tests/OrderHub.Application.Tests/Ordering/`, API/Integration tests de public ordering e operações; WEB `web/OrderHub.Web/src/modules/public-ordering/` e `modules/operations/orders/`.
+Código: `src/OrderHub.Domain/Ordering/Order.cs` (que declara `Order`, `OrderItem` e o enum `OrderStatus`); specs em `openspec/specs/ordering/`; testes `tests/OrderHub.Domain.Tests/Ordering/`, `tests/OrderHub.Application.Tests/Ordering/`, API/Integration tests de public ordering e operações; WEB `web/OrderHub.Web/src/modules/public-ordering/` e `modules/operations/orders/`.
 
 

@@ -1,4 +1,4 @@
-﻿# Usuário Administrativo
+# Usuário Administrativo
 
 **Arquivo:** `src/OrderHub.Domain/Identity/AdministrativeUser.cs` · tipo `AdministrativeUser`.
 

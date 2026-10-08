@@ -1,6 +1,6 @@
 # Telas de Avaliação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): `web/OrderHub.Web/src/modules/public-ordering/` tem 14 arquivos e nenhum componente, tipo ou chamada de avaliação/estrela; o Design System não possui componente de nota.
+> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): `web/OrderHub.Web/src/modules/public-ordering/` tem 13 arquivos e nenhum componente, tipo ou chamada de avaliação/estrela; o Design System não possui componente de nota.
 
 Contexto atual relevante: a jornada pública vive em **uma página** (`PublicOrderingPage.vue`) com máquina de estados `catalog → cart → checkout → receipt`, sem store Pinia — o carrinho é estado reativo de módulo com `localStorage` versionado por slug. Rotas públicas (`/order/:slug`, `/order/:slug/table/:tableToken`, `/order/track/:reference`) não têm `meta` nem guard. Ver [[Telas de Pedido]], [[Rotas]] e [[Estrutura Frontend]].
 

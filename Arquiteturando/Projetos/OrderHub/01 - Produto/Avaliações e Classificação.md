@@ -1,6 +1,6 @@
 # Avaliações e Classificação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): não foram encontrados código, spec, tabela, endpoint ou tela de avaliação/rating/review/estrelas em `src/`, `web/` ou `openspec/specs/`. Nada nesta nota é requisito vigente.
+> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): não foram encontrados código, tabela, endpoint ou tela de avaliação/rating/review/estrelas em `src/` nem `web/`, e nenhuma spec em `openspec/specs/`. Nada nesta nota é requisito vigente.
 
 O **usuário público** que concluiu um pedido avalia o **estabelecimento** e os **produtos** comprados com nota de **1 a 5**. Regra central proposta: **nota menor que 3 exige comentário**; notas 3, 4 e 5 dispensam comentário.
 
@@ -55,7 +55,7 @@ Mínimo de avaliações para publicar média, ordenação por "melhor avaliado" 
 
 ## Limites e riscos
 
-- `PRODUCT.md` registra que o fluxo público ainda não foi validado por usuário real; a avaliação herda esse risco de validação — ver [[01 - Produto/Estado Atual|Estado do Produto]].
+- `PRODUCT.md` registra que o fluxo público ainda não foi validado por usuário real; a avaliação herda esse risco de validação — ver [[01 - Produto/Estado Atual do Produto|Estado do Produto]].
 - Avaliação é conteúdo gerado por usuário: exige moderação, política de privacidade e retenção definidas **antes** do lançamento.
 - Nota baixa obrigatória com comentário aumenta atrito; a decisão de produto é consciente (troca de volume por sinal acionável).
 
@@ -70,4 +70,4 @@ Mínimo de avaliações para publicar média, ordenação por "melhor avaliado" 
 
 ## Relacionados
 
-[[Avaliação]] · [[Classificação e Reputação]] · [[Endpoints de Avaliação]] · [[Telas de Avaliação]] · [[Proposta - Avaliações e Classificação]] · [[Pedido]] · [[Produto]] · [[Estabelecimento]] · [[Cliente]] · [[01 - Produto/Fluxos Principais|Fluxos Principais]] · [[Fluxos Principais]]
+[[Avaliação]] · [[Classificação e Reputação]] · [[Endpoints de Avaliação]] · [[Telas de Avaliação]] · [[Proposta - Avaliações e Classificação]] · [[Pedido]] · [[Produto]] · [[Estabelecimento]] · [[Cliente]] · [[Fluxos Principais]]

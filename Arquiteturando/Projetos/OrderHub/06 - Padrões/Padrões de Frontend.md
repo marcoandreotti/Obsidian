@@ -1,4 +1,4 @@
-﻿# Padrões de Frontend
+# Padrões de Frontend
 
 Vue 3 + TypeScript + Quasar. Rotas explicitadas em `src/router/routes.ts`, controle de acesso em `router/access.ts`; páginas e componentes pertencem aos módulos de feature. HTTP via `src/http/client.ts` e clientes locais às features; estado durável de sessão no Pinia. SignalR é sinal de invalidação; HTTP continua fonte de leitura.
 

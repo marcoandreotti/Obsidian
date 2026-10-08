@@ -1,4 +1,4 @@
-﻿# Visão Geral da Arquitetura
+# Visão Geral da Arquitetura
 
 Esta nota registra fronteiras e nível de evidência. Para navegação, use [[Arquitetura]]; para sequência, [[Fluxo de uma Requisição]]; para detalhe API/Web, [[API]] e [[WEB]].
 
@@ -8,7 +8,7 @@ Esta nota registra fronteiras e nível de evidência. Para navegação, use [[Ar
 - Separação de identidade de plataforma: ADR-002.
 - Outbox transacional: ADR-003.
 - Adapters de canal de notificação: ADR-004.
-- Regras de dependências, CQRS e testes: `AGENTS.md`, `openspec/specs/architecture/` + `AGENTS.md` + ADRs.
+- Regras de dependências, CQRS e testes: `AGENTS.md`, `openspec/specs/architecture/` e ADRs.
 
 ## Observações inferidas do código
 

@@ -1,4 +1,4 @@
-﻿# Decisões
+# Decisões
 
 Índice de decisões arquiteturais existentes. As notas abaixo resumem ADRs do repositório; o texto original é autoridade. Motivação só é afirmada quando o ADR a registra.
 

@@ -1,6 +1,6 @@
-﻿# Segurança
+# Segurança
 
-Autenticação administrativa inclui senha + desafio MFA por email e cookies HttpOnly; refresh, CSRF cookie/header, rate limiting para início/conclusão de autenticação. Middleware inclui ProblemDetails/correlation e proteção contra alteração de senha temporária. Authorization policies e escopo por tenant/unidade estão em Application/Identity.
+Autenticação administrativa inclui senha + desafio MFA por email e cookies HttpOnly; refresh, CSRF cookie/header, rate limiting para início/conclusão de autenticação. Middleware inclui ProblemDetails/correlation e proteção contra alteração de senha temporária. Authorization policies estão em `Application/Identity/AdministrativePolicies.cs` e o escopo por tenant/unidade em `Application/Tenancy/EstablishmentScopeResolver.cs`.
 
 Identidade da plataforma é distinta da identidade administrativa por ADR-002. Isolamento tenant deve acompanhar leitura, escrita, autorização e jobs. Não ler nem copiar `.env`; `.env.example` é documentação de nomes/configuração, não segredo.
 

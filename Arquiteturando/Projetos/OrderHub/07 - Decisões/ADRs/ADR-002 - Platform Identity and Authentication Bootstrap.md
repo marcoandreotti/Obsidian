@@ -1,8 +1,8 @@
-﻿# ADR-002 - Platform Identity and Authentication Bootstrap
+# ADR-002 - Platform Identity and Authentication Bootstrap
 
 ## Contexto e decisão
 
-[ADR-002 original](file:///C:/Users/marco/source/repos/OrderHub/openspec/decisions/ADR-002-platform-identity-and-authentication-bootstrap.md) registra identidade de plataforma separada da identidade administrativa e bootstrap/autenticação da plataforma.
+O original em `openspec/decisions/ADR-002-platform-identity-and-authentication-bootstrap.md` registra identidade de plataforma separada da identidade administrativa e bootstrap/autenticação da plataforma.
 
 ## Motivo
 

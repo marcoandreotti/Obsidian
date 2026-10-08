@@ -1,4 +1,4 @@
-﻿# ADR - Índice
+# ADR - Índice
 
 Registro das decisões formais localizadas em `openspec/decisions/`. Consulte o original antes de propor mudança. As páginas do cofre são retrospectivas, não substituem ADRs.
 

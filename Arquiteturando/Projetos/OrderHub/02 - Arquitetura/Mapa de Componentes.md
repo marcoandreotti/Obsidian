@@ -1,4 +1,4 @@
-﻿# Mapa de Componentes
+# Mapa de Componentes
 
 ```mermaid
 flowchart LR

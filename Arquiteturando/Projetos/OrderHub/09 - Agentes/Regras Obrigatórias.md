@@ -12,6 +12,8 @@ Resumo de `AGENTS.md`; confirme o texto oficial antes de cada mudança.
 - I/O assíncrono e CancellationToken conforme aplicável.
 - Testes pertinentes e Definition of Done da raiz/spec; documentação e specs atualizadas conforme fluxo.
 
-Fontes: `AGENTS.md`; `openspec/specs/architecture/` + `AGENTS.md` + ADRs; `docs/web-design-system.md`; `openspec/decisions/`; spec/change aplicável. É resumo, não substitui redação oficial.
+Fontes: `AGENTS.md`; `openspec/specs/architecture/` + `AGENTS.md` + ADRs; `docs/web-design-system.md`; `openspec/conventions.md`; `openspec/decisions/`; spec/change aplicável. É resumo, não substitui redação oficial.
+
+Relacionado: [[Diretrizes para Agentes]], [[Antes de Alterar o Código]], [[Backend - Guia do Agente]], [[Frontend - Guia do Agente]].
 
 

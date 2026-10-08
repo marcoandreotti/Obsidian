@@ -1,4 +1,4 @@
-﻿# Antes de Alterar o Código
+# Antes de Alterar o Código
 
 - [ ] Leia `AGENTS.md` e instruções da pasta afetada.
 - [ ] Identifique contexto, requisito, spec vigente e change ativa relevante.

@@ -1,6 +1,6 @@
 # Proposta — Avaliações e Classificação
 
-> **Estado:** proposta do cofre. **Não é uma change OpenSpec criada** e não há implementação. Verificado no checkout `6384863` (2026-10-07): nenhuma dessas rotas, agregados, tabelas ou specs existe. A change descrita precisa seguir o processo do repositório (`.agents/skills/openspec-propose` → `openspec-apply-change` → `openspec-archive-change`).
+> **Estado:** proposta do cofre. **Não é uma change OpenSpec criada** e não há implementação. Verificado no checkout `6384863` (2026-10-07): nenhuma dessas rotas, agregados, tabelas ou specs existe. A change descrita precisa seguir o processo do repositório (`.agents/skills/openspec-propose`, com `openspec new change` → `openspec status --change --json` → `openspec instructions <artifact-id> --change --json`, e depois `openspec-apply-change` → `openspec-archive-change`).
 
 Objetivo: permitir que o **usuário público que concluiu um pedido** avalie o **estabelecimento** e os **produtos** com **nota de 1 a 5**, exigindo **comentário quando a nota for menor que 3**. Regra, jornada e limites em [[Avaliações e Classificação]]; modelo em [[Avaliação]] e [[Classificação e Reputação]]; contratos em [[Endpoints de Avaliação]]; interface em [[Telas de Avaliação]].
 

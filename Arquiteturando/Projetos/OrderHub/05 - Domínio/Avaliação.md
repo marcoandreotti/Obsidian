@@ -29,7 +29,7 @@ Regra de negócio pertence ao domínio ([[Regras de Negócio]]); o repositório 
 
 ## Value object proposto
 
-`Rating` (ex.: `readonly record struct Rating` com `Value` e `RequiresComment => Value < 3`), validado na criação. Observação de precedente: hoje os únicos VOs de valor são `Money`, `Quantity` (`src/OrderHub.Domain/SharedKernel/`), `Slug` (`Tenancy/`) e `Email` (`Identity/`); **não há VO numérico com faixa**. Alternativa a decidir: manter `int` com `HasCheckConstraint` no mapeamento EF e validação no agregado.
+`Rating` (ex.: `readonly record struct Rating` com `Value` e `RequiresComment => Value < 3`), validado na criação. Observação de precedente: hoje os VOs de valor são `Money`, `Quantity` e `ModifierPortion` (`src/OrderHub.Domain/SharedKernel/`), `Slug` e `EstablishmentTheme` (`Tenancy/`) e `Email` (`Identity/`); **nenhum deles é um inteiro com faixa fechada**. Alternativa a decidir: manter `int` com `HasCheckConstraint` no mapeamento EF e validação no agregado.
 
 `Comment` pode permanecer `string?` com normalização no agregado; um VO próprio só se a regra crescer (ex.: filtro de conteúdo).
 

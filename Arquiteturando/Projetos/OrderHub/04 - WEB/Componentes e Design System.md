@@ -1,4 +1,4 @@
-﻿# Componentes e Design System
+# Componentes e Design System
 
 Fonte oficial: `docs/web-design-system.md`; tokens `web/OrderHub.Web/src/themes/_tokens.scss`, tema/appearance e `src/css/app.scss`.
 
@@ -9,6 +9,8 @@ O catálogo oficial não lista `AppButton`, `AppCard`, `AppDialog`, `AppStatus`,
 Superfícies diferentes: Public mobile-first e tema Tenant; Administration produtividade; Operations rapidez/estado; KDS leitura à distância; Platform contexto global. Tokens têm primary `#F97316`, neutros, status e accent administrativo. Tema Tenant somente no subtree Public; claro/escuro usa tokens semânticos.
 
 Considere estados assíncronos, teclado/foco, labels/semântica, contraste e touch. Estado não pode ser comunicado só por cor. Specs `openspec/specs/web/action-controls/spec.md`, `openspec/specs/web/appearance-preferences/spec.md`; consulte código/tokens antes de alterar.
+
+Relaciona: [[04 - WEB/WEB|WEB]], [[04 - WEB/Telas de Pedido|Telas de Pedido]], [[04 - WEB/Telas de Avaliação|Telas de Avaliação]], [[04 - WEB/Estrutura Frontend|Estrutura Frontend]], [[Padrões de Frontend]].
 
 
 

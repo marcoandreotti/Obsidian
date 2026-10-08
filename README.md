@@ -39,7 +39,7 @@ Abra `Arquiteturando/Projetos/OrderHub/00 - Home/Home.md` no Obsidian para come�
 | Agentes | Diretrizes e orientações específicas para backend e frontend |
 | Evolução | Estado atual, backlog, melhorias e dívidas técnicas |
 
-A nota `Arquiteturando/Bússola de desenvolvimento para agentes.md` reúne orientações para agentes. As notas de navegação explicam como seguir os wikilinks e como interpretar os níveis de evidência.
+Comece por `Arquiteturando/Bússola de desenvolvimento para agentes.md`, o ponto de entrada do cofre para agentes; as regras detalhadas ficam em `Arquiteturando/Projetos/OrderHub/09 - Agentes/`. As notas de navegação explicam como seguir os wikilinks e como interpretar os níveis de evidência.
 
 ## Como interpretar as notas
 

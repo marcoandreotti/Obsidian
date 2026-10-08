@@ -5,7 +5,7 @@ Manual de navegação e execução para agentes que atuam no OrderHub. **As font
 ## Ordem das fontes
 
 1. `AGENTS.md` e instruções mais próximas do arquivo alterado.
-2. ADRs em `openspec/decisions/`, especificações arquiteturais em `openspec/specs/architecture/`, convenções e Design System em `docs/web-design-system.md`.
+2. Arquitetura em `openspec/architecture.md`, ADRs em `openspec/decisions/` e especificações arquiteturais em `openspec/specs/architecture/`; convenções globais em `openspec/conventions.md` e Design System em `docs/web-design-system.md`.
 3. Spec vigente em `openspec/specs/` e mudanças propostas em `openspec/changes/`. Diferencie requisito vigente de proposta em andamento.
 4. Código, testes e configuração atuais como evidência da implementação.
 5. Notas do cofre como índice; nunca como autoridade em conflito.
@@ -55,5 +55,7 @@ Ao finalizar, informe de forma verificável:
 - verificações não executadas, limitações e pontos ainda **A confirmar**.
 
 ## Navegação
+
+Ponto de entrada do cofre para agentes: [[Bússola de desenvolvimento para agentes|Bússola]].
 
 Detalhes por área: [[Regras Obrigatórias]], [[Antes de Alterar o Código]], [[Backend - Guia do Agente]], [[Frontend - Guia do Agente]]. Complementos: [[Arquitetura]], [[Padrões]], [[Guias]], [[Checklist de Desenvolvimento]].

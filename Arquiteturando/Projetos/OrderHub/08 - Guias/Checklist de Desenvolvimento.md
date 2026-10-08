@@ -1,4 +1,4 @@
-﻿# Checklist de Desenvolvimento
+# Checklist de Desenvolvimento
 
 - [ ] Requisito e contexto confirmados na spec/fonte.
 - [ ] Padrão local e ADR revisados.

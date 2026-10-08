@@ -1,8 +1,8 @@
-﻿# ADR-001 - Modular Monolith Foundation
+# ADR-001 - Modular Monolith Foundation
 
 ## Contexto e decisão
 
-Consulte [ADR-001 original](file:///C:/Users/marco/source/repos/OrderHub/openspec/decisions/ADR-001-modular-monolith-foundation.md). Decisão registrada: estabelecer o OrderHub como modular monolith e organizar fronteiras/modularidade nos projetos .NET.
+Consulte o original em `openspec/decisions/ADR-001-modular-monolith-foundation.md`. Decisão registrada: estabelecer o OrderHub como modular monolith e organizar fronteiras/modularidade nos projetos .NET.
 
 ## Motivo
 

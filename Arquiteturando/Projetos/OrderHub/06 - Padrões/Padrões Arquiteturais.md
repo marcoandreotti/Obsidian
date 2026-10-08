@@ -1,4 +1,4 @@
-﻿# Padrões Arquiteturais
+# Padrões Arquiteturais
 
 ## Regra documentada
 
@@ -10,7 +10,7 @@ Projects: Domain, Application, Contracts, Infrastructure, Api, Infrastructure.Mi
 
 ## Para novas mudanças
 
-Siga AGENTS.md e `openspec/specs/architecture/` + `AGENTS.md` + ADRs; preserve direção de dependências e teste arquitetural. Não introduza microservices, MediatR ou AutoMapper: AGENTS proíbe MediatR/AutoMapper e ADR documenta modular monolith. Não mova regra de negócio para API/UI.
+Siga `AGENTS.md`, `openspec/architecture.md` e os ADRs em `openspec/decisions/`; preserve direção de dependências e teste arquitetural. Não introduza microservices, MediatR ou AutoMapper: AGENTS proíbe MediatR/AutoMapper e ADR documenta modular monolith. Não mova regra de negócio para API/UI.
 
 Relacionado: [[Dependências entre Camadas]], [[Camadas da API]], [[Padrões de Backend]], [[Decisões]].
 

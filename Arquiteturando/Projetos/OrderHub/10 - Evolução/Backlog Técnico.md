@@ -11,6 +11,8 @@ Snapshot derivado de OpenSpec em 2026-10-04:
 | `improve-operations-order-filtering` | 6/6 | Tasks completas, change ainda não arquivada. |
 | `localize-user-facing-messages` | tasks não identificadas | Proposal/delta spec presentes. |
 
+Estado em 2026-10-07: as três últimas linhas acima foram **arquivadas** em 2026-10-06 (`openspec/changes/archive/2026-10-06-*`), com todas as tarefas concluídas — o checklist da tabela é o snapshot de 2026-10-04.
+
 Reconferência em 2026-10-07 (checkout `6384863`): `improve-kitchen-display`, `improve-operations-order-filtering` e `localize-user-facing-messages` foram arquivadas em 2026-10-06; as changes ativas hoje são as três primeiras da tabela.
 
 Proposta ainda **não submetida ao OpenSpec**: `add-customer-reviews` — avaliações de restaurante e de produtos pelo usuário público, nota de 1 a 5 com comentário obrigatório abaixo de 3; esboço de spec, tarefas e riscos em [[Proposta - Avaliações e Classificação]].

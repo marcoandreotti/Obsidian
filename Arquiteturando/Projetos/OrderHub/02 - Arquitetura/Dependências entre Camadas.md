@@ -1,4 +1,4 @@
-﻿# Dependências entre Camadas
+# Dependências entre Camadas
 
 ```mermaid
 flowchart BT
