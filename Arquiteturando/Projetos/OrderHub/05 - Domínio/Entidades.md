@@ -1,4 +1,4 @@
-﻿# Entidades e Conceitos
+# Entidades e Conceitos
 
 Índice dos conceitos centrais (código em `src/OrderHub.Domain/`). Relação de agregados é observada em classes/coleções; consulte mapeamento EF antes de afirmar tabela ou boundary.
 
@@ -11,6 +11,7 @@
 - [[Pagamento]] registra cobertura financeira sem substituir estado operacional do pedido.
 - [[Cupom]] avalia desconto/uso associado ao pedido.
 - [[Região de Entrega]] determina cobertura, tarifa e estimativa.
+- [[Avaliação]] (proposta, não implementada) registra nota de 1 a 5 do consumidor sobre a unidade ou sobre produtos do pedido concluído, com comentário obrigatório abaixo de 3; [[Classificação e Reputação]] agrega as avaliações publicadas.
 
 Value objects: `Money`, `Quantity`, `Email`, `Slug`, `EstablishmentTheme`, `ModifierPortion`; shared interfaces `ITenantScopedEntity`/`IEstablishmentScopedEntity`. Ver [[05 - Domínio/Glossário|Glossário]] e [[Regras de Negócio]].
 

@@ -1,4 +1,4 @@
-﻿# Camadas da API
+# Camadas da API
 
 Ordem de estudo: Domain → Application → Infrastructure → API/composition → Contracts/testes. Ordem de execução de escrita: endpoint → Dispatcher → validator → handler → Domain → port/repository → adapter/DB.
 

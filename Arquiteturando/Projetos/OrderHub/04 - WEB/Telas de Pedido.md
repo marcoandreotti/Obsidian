@@ -1,9 +1,10 @@
-﻿# Telas de Pedido
+# Telas de Pedido
 
 Rotas: `web/OrderHub.Web/src/router/routes.ts`; shell Public em `src/layouts/PublicLayout.vue`.
 
 - `/order/:slug` e `/order/:slug/table/:tableToken` → `modules/public-ordering/PublicOrderingPage.vue`.
 - `/order/track/:reference` → `modules/public-ordering/TrackingPage.vue`.
+- Avaliação do pedido concluído (proposta não implementada): `/order/review/:reference` → `modules/public-ordering/ReviewPage.vue`; detalhes em [[Telas de Avaliação]].
 - Fluxo e módulos: `cart.ts`, `checkout.ts`, `client.ts`, `theme.ts`, `tracking.ts`; componentes vizinhos `PublicProductCard.vue`, `PublicCategoryNavigation.vue`, `PublicCartAccess.vue`.
 - Operação: `modules/operations/orders/OrdersDashboardPage.vue`; KDS `modules/operations/kitchen/KitchenDisplayPage.vue`.
 

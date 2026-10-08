@@ -1,4 +1,4 @@
-﻿# Usuários e Perfis
+# Usuários e Perfis
 
 `PRODUCT.md`/`openspec/project.md` citam cliente, atendente, cozinha, entregador, gerente, administrador, proprietário e superusuário da plataforma.
 

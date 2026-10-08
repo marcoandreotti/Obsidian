@@ -1,4 +1,4 @@
-﻿# Contextos de Negócio
+# Contextos de Negócio
 
 Mapa de capability → spec → implementation/test references. A presença de classe/teste não prova todos os requisitos concluídos.
 
@@ -17,6 +17,7 @@ Mapa de capability → spec → implementation/test references. A presença de c
 | Promotions | `promotions/coupon-management` | Domain/Application Promotions, Web coupons; Coupon application/domain/persistence + promotions-payments Web tests. |
 | Reporting | `reporting/business-dashboard` | Application Reporting, `BusinessDashboardReadGateway`, Web reporting; `BusinessDashboardValidationTests`, `BusinessDashboardReportingTests`. |
 | Communications/outbox | `communications/notification-gateway`, `customer-order-notifications`; `architecture/transactional-outbox` | Application Communications, Infrastructure/Outbox/worker, Web communications; Notification validation/gateway/provider and outbox integration tests. |
+| Avaliações e classificação (proposta) | capability nova `reviews/customer-reviews`; **não implementada** | [[Avaliação]], [[Classificação e Reputação]], [[Endpoints de Avaliação]], [[Telas de Avaliação]]; nenhum código/spec existe no checkout `6384863`. |
 | Web conventions | `openspec/specs/web/action-controls/spec.md`, `openspec/specs/web/appearance-preferences/spec.md` | Quasar components/themes; Web layout/navigation/page tests; `docs/web-design-system.md`. |
 
 Paths completos das specs começam `openspec/specs/<context>/<capability>/spec.md`; tabela usa sufixo para legibilidade. Para endpoint/page files, ver [[03 - API/Módulos e Endpoints|API]] e [[04 - WEB/Rotas|Rotas]]. O teste real de entrega encontrado é `tests/OrderHub.Domain.Tests/Delivery/DeliveryRegionTests.cs`.

@@ -1,4 +1,4 @@
-﻿# Entidades de Pedido
+# Entidades de Pedido
 
 Inventário inicial, baseado em `src/OrderHub.Domain/Ordering/` e arquivos em `Catalog`, `Customers`, `Payments` e `Delivery`:
 

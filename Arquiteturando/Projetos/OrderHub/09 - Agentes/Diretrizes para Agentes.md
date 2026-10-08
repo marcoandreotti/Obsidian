@@ -1,4 +1,4 @@
-﻿# Diretrizes para Agentes
+# Diretrizes para Agentes
 
 Manual de navegação e execução para agentes que atuam no OrderHub. **As fontes oficiais do repositório prevalecem sobre este resumo**; consulte-as antes de implementar mudanças e verifique se mudaram.
 

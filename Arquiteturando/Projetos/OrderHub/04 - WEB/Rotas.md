@@ -1,10 +1,12 @@
-﻿# Rotas
+# Rotas
 
 Fonte `web/OrderHub.Web/src/router/routes.ts`, guard `src/router/access.ts`. Rotas importam páginas lazy sob layouts.
 
 | URL | Página/superfície | Guard declarado |
 |---|---|---|
 | `/order/track/:reference` | Public / TrackingPage | público |
+| `/order/review/:reference` (proposto) | Public / ReviewPage — avaliação do pedido concluído | público; **não implementado** |
+| `/administration/reviews` (proposto) | Administration / ReviewsPage — moderação | `management`; **não implementado** |
 | `/order/:slug`, `/order/:slug/table/:tableToken` | Public / PublicOrderingPage | público |
 | `/login`, `/access-denied`, `/` | Public shell / session ou FoundationPage | público |
 | `/change-password` | ChangePasswordPage | requiresSession |

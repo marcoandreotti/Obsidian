@@ -6,6 +6,7 @@ Itens rastreados em fontes do projeto; não são recomendações independentes d
 - Produto: validar ordering público com usuário, apontado em `PRODUCT.md`.
 - Comunicação: docs registram gateway sandbox, configuração compartilhada por ambiente e ausência de confirmação de entrega/webhook; conferir `docs/notification-gateway.md` antes de planejar evolução.
 - Pagamento: provedor de processamento externo **Não identificado no repositório**.
+- Avaliações de restaurante e de produtos pelo usuário público (nota 1–5, comentário obrigatório abaixo de 3): **proposta do cofre**, sem implementação no checkout `6384863`; ver [[Proposta - Avaliações e Classificação]].
 
 Qualquer prioridade, estimativa ou decisão de produto não expressa nas fontes permanece **A confirmar**. [[Dívidas Técnicas]]
 

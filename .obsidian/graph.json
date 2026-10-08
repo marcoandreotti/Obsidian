@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Arquiteturando/Projetos/OrderHub/05 - Domínio\"",
+      "color": {
+        "a": 1,
+        "rgb": 12424185
+      }
+    },
+    {
+      "query": "path:\"Arquiteturando/Projetos/OrderHub/06 - Padrões\"",
+      "color": {
+        "a": 1,
+        "rgb": 16742854
+      }
+    },
+    {
+      "query": "path:\"Arquiteturando/Projetos/OrderHub/04 - WEB\"",
+      "color": {
+        "a": 1,
+        "rgb": 5307003
+      }
+    },
+    {
+      "query": "path:\"Arquiteturando/Projetos/OrderHub/03 - API\"",
+      "color": {
+        "a": 1,
+        "rgb": 9169405
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6372987299011715,
-  "close": false
+  "scale": 0.8410179241582805,
+  "close": true
 }

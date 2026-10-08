@@ -1,4 +1,4 @@
-# Pedido
+# <span style="color: red;">Pedido</span>
 
 Pedido é o agregado central do fluxo de venda. Código: `src/OrderHub.Domain/Ordering/Order.cs`; aplicação em `src/OrderHub.Application/Ordering/`; persistência em Infrastructure; rotas públicas e administrativas na API; interfaces em módulos WEB public-ordering e operations.
 

@@ -1,4 +1,4 @@
-﻿# OrderHub — Home
+# OrderHub — Home
 
 > Cérebro técnico e funcional do OrderHub. Levantamento em **2026-10-04**. Resumos com links às fontes; repositório é autoridade.
 
@@ -20,10 +20,11 @@ OrderHub é uma aplicação SaaS multi-tenant voltada a estabelecimentos de alim
 - [[API]] · [[WEB]] · [[Domínio]] · [[Padrões]] · [[Decisões]] · [[Guias]]
 - Agentes: [[Diretrizes para Agentes]] · [[Antes de Alterar o Código]]
 - Evolução: [[10 - Evolução/Estado Atual|Estado Atual]], [[Dívidas Técnicas]], [[Melhorias Identificadas]]
+- Proposta em estudo, não implementada: [[Avaliações e Classificação]] · [[Avaliação]] · [[Proposta - Avaliações e Classificação]]
 
 ## Estado rápido
 
-Solução inclui onboarding/tenancy, autenticação, catálogo, ordering, operações/KDS, clientes, entrega, pagamentos, promoções, reporting e notifications. Mudanças OpenSpec ainda ativas: [[Backlog Técnico]]. Primeiro commit disponível 2026-09-02; janela aferida de 32 dias até HEAD 2026-10-04; não prova início real.
+Solução inclui onboarding/tenancy, autenticação, catálogo, ordering, operações/KDS, clientes, entrega, pagamentos, promoções, reporting e notifications. Mudanças OpenSpec ainda ativas: [[Backlog Técnico]]. Avaliações de restaurante e de produtos pelo usuário público (nota 1–5, comentário obrigatório abaixo de 3) são **proposta do cofre**, sem implementação — ver [[Avaliações e Classificação]]. Primeiro commit disponível 2026-09-02; janela aferida de 32 dias até HEAD 2026-10-04; não prova início real.
 
 ## Confiança
 

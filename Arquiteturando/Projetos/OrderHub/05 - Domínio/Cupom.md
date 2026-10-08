@@ -1,4 +1,4 @@
-﻿# Cupom
+# Cupom
 
 Cupom representa promoção aplicada a pedido, com validade, elegibilidade, desconto e limites de uso; snapshot do resultado evita perder a condição aplicada ao pedido. Código `src/OrderHub.Domain/Promotions/`; application e UI administração em `modules/administration/coupons/`.
 
