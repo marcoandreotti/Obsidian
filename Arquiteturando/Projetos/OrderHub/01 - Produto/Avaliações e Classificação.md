@@ -68,6 +68,11 @@ Mínimo de avaliações para publicar média, ordenação por "melhor avaliado" 
 - Mínimo de avaliações para exibir média pública.
 - Resposta do estabelecimento e notificação de convite: fase 2.
 
+## Fidelidade — ideia relacionada
+
+No contexto do relacionamento com clientes, também está mapeada a ideia de **Fidelidade**: o restaurante atribui um status ao cliente. Benefícios como descontos exclusivos, brindes ou itens gratuitos são possibilidades futuras, ainda sem regras definidas. A ideia não está implementada e não é concedida por avaliações.
+
+A nota [[Fidelidade]] reúne o conceito e as decisões em aberto. As duas iniciativas ficam relacionadas na visão de produto, mas mantêm objetivos distintos: avaliações registram a opinião do cliente; fidelidade representa um status atribuído pelo restaurante.
 ## Relacionados
 
 [[Avaliação]] · [[Classificação e Reputação]] · [[Endpoints de Avaliação]] · [[Telas de Avaliação]] · [[Proposta - Avaliações e Classificação]] · [[Pedido]] · [[Produto]] · [[Estabelecimento]] · [[Cliente]] · [[Fluxos Principais]]
