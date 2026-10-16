@@ -11,3 +11,5 @@ Itens rastreados em fontes do projeto; não são recomendações independentes d
 Qualquer prioridade, estimativa ou decisão de produto não expressa nas fontes permanece **A confirmar**. [[Dívidas Técnicas]]
 
 
+
+- Fidelidade: ideia para o restaurante atribuir status ao cliente; possíveis benefícios (descontos, brindes ou itens gratuitos) ficam para o futuro e não estão definidos. Proposta do cofre, sem implementação: [[Fidelidade]].

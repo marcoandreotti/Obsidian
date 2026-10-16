@@ -22,6 +22,7 @@ OrderHub é uma aplicação SaaS multi-tenant voltada a estabelecimentos de alim
 - Agentes: [[Diretrizes para Agentes]] · [[Antes de Alterar o Código]]
 - Evolução: [[10 - Evolução/Estado Atual|Estado Atual]], [[Dívidas Técnicas]], [[Melhorias Identificadas]]
 - Proposta em estudo, não implementada: [[Avaliações e Classificação]] · [[Avaliação]] · [[Proposta - Avaliações e Classificação]]
+- Fidelidade — ideia de produto, ainda não implementada: [[Fidelidade]]
 
 ## Estado rápido
 
@@ -32,6 +33,3 @@ Reconferência em 2026-10-07: checkout `6384863` (2026-10-06), árvore limpa, 35
 ## Confiança
 
 Em caso de conflito, leia `AGENTS.md`, documentação/ADRs/specs/código atuais. Ver [[Como navegar no cofre]].
-
-
-
