@@ -16,6 +16,9 @@ OrderHub é uma aplicação SaaS multi-tenant voltada a estabelecimentos de alim
 
 ## Áreas do conhecimento
 
+- Proposta em avaliação: [[Atendimento por Mesa e Comanda Digital]]
+
+
 - Produto: [[Visão Geral]], [[Usuários e Perfis]], [[Fluxos Principais]], [[01 - Produto/Estado Atual do Produto|Estado do Produto]]
 - Arquitetura: [[Arquitetura]], [[Mapa de Componentes]], [[Dependências entre Camadas]]
 - [[API]] · [[WEB]] · [[Domínio]] · [[Padrões]] · [[Decisões]] · [[Guias]]

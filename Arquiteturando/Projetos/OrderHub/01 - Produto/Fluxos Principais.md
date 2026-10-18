@@ -9,6 +9,8 @@ Síntese de `docs/user-journeys.md`; contratos e regras detalhados nas fontes re
 5. **Provisionar:** PlatformSuperUser → `/platform` → cria Tenant, unidade e primeiro Owner; Owner usa código do Tenant, MFA, troca senha e continua onboarding.
 6. **Avaliar (proposto, não implementado):** pedido em `Completed` → convite em `/order/track/{reference}` → nota de 1 a 5 para a unidade e para os produtos, com comentário obrigatório abaixo de 3 → publicação alimenta a classificação pública. Ver [[Avaliações e Classificação]].
 
+7. **Atendimento por mesa e comanda (proposto, não implementado):** QR associado à mesa → sessão de atendimento segura → pedidos vinculados à visita → contas separadas/consolidadas → solicitação ao caixa → encerramento da visita. Regras e limites em [[Atendimento por Mesa e Comanda Digital]].
+
 Fontes: `docs/user-journeys.md`, `docs/platform-tenant-provisioning.md`, specs de cada contexto. Ver [[Fluxo de Pedido]], [[Comunicação com a API]], [[Infraestrutura]].
 
 

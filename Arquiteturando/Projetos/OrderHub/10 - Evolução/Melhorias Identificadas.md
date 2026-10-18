@@ -13,3 +13,5 @@ Qualquer prioridade, estimativa ou decisão de produto não expressa nas fontes 
 
 
 - Fidelidade: ideia para o restaurante atribuir status ao cliente; possíveis benefícios (descontos, brindes ou itens gratuitos) ficam para o futuro e não estão definidos. Proposta do cofre, sem implementação: [[Fidelidade]].
+
+- Atendimento por mesa/comanda digital: proposta de sessão segura por QR, acompanhamento, divisão de contas e fechamento assistido pelo caixa; controle quantitativo de estoque e pagamentos online requerem validação separada. Ver [[Atendimento por Mesa e Comanda Digital]].
