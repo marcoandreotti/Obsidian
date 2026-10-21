@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6670771c02361fd0",
+        "id": "8235ba329ec46cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7e0b90b10203b5",
+            "id": "11635e662caa5ab2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "right": {
     "id": "eeb1e06c9fa4c592",
@@ -220,33 +220,32 @@
       "dsh-harness:Open DeepSeek Harness": false
     }
   },
-  "active": "9b7e0b90b10203b5",
+  "active": "11635e662caa5ab2",
   "lastOpenFiles": [
-    "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Pedido.md",
-    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Dívidas Técnicas.md",
     "Arquiteturando/Projetos/OrderHub/10 - Evolução/Melhorias Identificadas.md",
+    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Estado Atual.md",
+    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Dívidas Técnicas.md",
+    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Backlog Técnico.md",
+    "Arquiteturando/Projetos/OrderHub/09 - Agentes/Regras Obrigatórias.md",
+    "Arquiteturando/Projetos/OrderHub/08 - Guias/Checklist de Desenvolvimento.md",
+    "Arquiteturando/Projetos/OrderHub/07 - Decisões/Decisões.md",
+    "Arquiteturando/Projetos/OrderHub/07 - Decisões/ADR - Índice.md",
+    "Arquiteturando/Projetos/OrderHub/07 - Decisões/ADRs/ADR-002 - Platform Identity and Authentication Bootstrap.md",
+    "Arquiteturando/Projetos/OrderHub/07 - Decisões/ADRs/ADR-001 - Modular Monolith Foundation.md",
+    "Arquiteturando/Bússola de desenvolvimento para agentes.md",
+    "Arquiteturando/Projetos/OrderHub/03 - API/Endpoints de Avaliação.md",
+    "Arquiteturando/Projetos/OrderHub/03 - API/Módulos e Endpoints.md",
+    "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Pedido.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Atendimento por Mesa e Comanda Digital.md",
     "README.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Fidelidade.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Cliente.md",
-    "Arquiteturando/Bússola de desenvolvimento para agentes.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Pedido.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Regras de Negócio.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Região de Entrega.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Estado Atual do Produto.md",
     "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Avaliação.md",
-    "Arquiteturando/Projetos/OrderHub/08 - Guias/Como adicionar uma Regra de Negócio.md",
-    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Proposta - Avaliações e Classificação.md",
-    "Arquiteturando/Projetos/OrderHub/03 - API/Endpoints de Avaliação.md",
-    "Arquiteturando/Projetos/OrderHub/05 - Domínio/Classificação e Reputação.md",
-    "Arquiteturando/Projetos/OrderHub/01 - Produto/Avaliações e Classificação.md",
-    "Arquiteturando/Projetos/OrderHub/00 - Home/Como navegar no cofre.md",
-    "Arquiteturando/Projetos/OrderHub/01 - Produto/Estado Atual.md",
-    "Arquiteturando/Projetos/OrderHub/09 - Agentes/Regras Obrigatórias.md",
-    "Arquiteturando/Projetos/OrderHub/03 - API/Camadas da API.md",
-    "Arquiteturando/Projetos/OrderHub/01 - Produto/Visão Geral.md",
-    "Arquiteturando/Projetos/OrderHub/01 - Produto/Usuários e Perfis.md",
-    "Arquiteturando/Projetos/OrderHub/01 - Produto/Objetivo do Produto.md"
+    "Arquiteturando/Projetos/OrderHub/08 - Guias/Como adicionar uma Regra de Negócio.md"
   ]
 }
