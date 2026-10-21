@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8235ba329ec46cc5",
+        "id": "2af0800d84206a93",
         "type": "tabs",
         "children": [
           {
-            "id": "11635e662caa5ab2",
+            "id": "dd45f8e2f8a3622f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -220,8 +220,9 @@
       "dsh-harness:Open DeepSeek Harness": false
     }
   },
-  "active": "11635e662caa5ab2",
+  "active": "dd45f8e2f8a3622f",
   "lastOpenFiles": [
+    "Arquiteturando/Projetos/OrderHub/01 - Produto/Avaliações e Classificação.md",
     "Arquiteturando/Projetos/OrderHub/10 - Evolução/Melhorias Identificadas.md",
     "Arquiteturando/Projetos/OrderHub/10 - Evolução/Estado Atual.md",
     "Arquiteturando/Projetos/OrderHub/10 - Evolução/Dívidas Técnicas.md",
@@ -235,6 +236,7 @@
     "Arquiteturando/Bússola de desenvolvimento para agentes.md",
     "Arquiteturando/Projetos/OrderHub/03 - API/Endpoints de Avaliação.md",
     "Arquiteturando/Projetos/OrderHub/03 - API/Módulos e Endpoints.md",
+    "Arquiteturando/Projetos/OrderHub/10 - Evolução/Proposta - Avaliações e Classificação.md",
     "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Pedido.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Atendimento por Mesa e Comanda Digital.md",
     "README.md",
@@ -245,7 +247,6 @@
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Regras de Negócio.md",
     "Arquiteturando/Projetos/OrderHub/05 - Domínio/Região de Entrega.md",
     "Arquiteturando/Projetos/OrderHub/01 - Produto/Estado Atual do Produto.md",
-    "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Avaliação.md",
-    "Arquiteturando/Projetos/OrderHub/08 - Guias/Como adicionar uma Regra de Negócio.md"
+    "Arquiteturando/Projetos/OrderHub/04 - WEB/Telas de Avaliação.md"
   ]
 }

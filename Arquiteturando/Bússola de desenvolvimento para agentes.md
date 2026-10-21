@@ -1,10 +1,10 @@
 # Bússola de desenvolvimento para agentes
 
-> Ponto de entrada do **Cérebro do OrderHub** para agentes de programação. Esta nota descreve o **método** de uso do cofre; as regras detalhadas ficam na seção [[09 - Agentes/Diretrizes para Agentes|09 - Agentes]] e o conteúdo vinculante continua no repositório (`AGENTS.md`, specs, ADRs e código). Levantamento em 2026-10-07.
+> Ponto de entrada do **Cérebro do zFome** para agentes de programação. Esta nota descreve o **método** de uso do cofre; as regras detalhadas ficam na seção [[09 - Agentes/Diretrizes para Agentes|09 - Agentes]] e o conteúdo vinculante continua no repositório (`AGENTS.md`, specs, ADRs e código). Levantamento em 2026-10-07.
 
 ## Para que serve este cofre
 
-O cofre reúne produto, domínio, arquitetura, API, WEB, padrões, decisões e evolução do OrderHub em notas conectadas por wikilinks. Use-o **no início da tarefa** para recuperar contexto, intenção, histórico e vocabulário — e navegue apenas pelas notas relacionadas ao pedido.
+O cofre reúne produto, domínio, arquitetura, API, WEB, padrões, decisões e evolução do zFome em notas conectadas por wikilinks. Use-o **no início da tarefa** para recuperar contexto, intenção, histórico e vocabulário — e navegue apenas pelas notas relacionadas ao pedido.
 
 O cofre **não é autoridade**: em conflito, valem `AGENTS.md`, `openspec/`, ADRs, specs e o código atual. Toda afirmação relevante nas notas traz caminho de arquivo justamente para você conferir na fonte.
 
