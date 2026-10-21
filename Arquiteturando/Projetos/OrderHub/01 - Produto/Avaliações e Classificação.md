@@ -1,6 +1,6 @@
 # Avaliações e Classificação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): não foram encontrados código, tabela, endpoint ou tela de avaliação/rating/review/estrelas em `src/` nem `web/`, e nenhuma spec em `openspec/specs/`. Nada nesta nota é requisito vigente.
+> **Estado:** implementada no change `add-customer-reviews`, com domínio, migration, endpoints públicos/administrativos e telas Vue/Quasar. A aprovação da equipe controla a publicação e a classificação é derivada somente de avaliações publicadas.
 
 O **usuário público** que concluiu um pedido avalia o **estabelecimento** e os **produtos** comprados com nota de **1 a 5**. Regra central proposta: **nota menor que 3 exige comentário**; notas 3, 4 e 5 dispensam comentário.
 
@@ -75,4 +75,4 @@ No contexto do relacionamento com clientes, também está mapeada a ideia de **F
 A nota [[Fidelidade]] reúne o conceito e as decisões em aberto. As duas iniciativas ficam relacionadas na visão de produto, mas mantêm objetivos distintos: avaliações registram a opinião do cliente; fidelidade representa um status atribuído pelo restaurante.
 ## Relacionados
 
-[[Avaliação]] · [[Classificação e Reputação]] · [[Endpoints de Avaliação]] · [[Telas de Avaliação]] · [[Proposta - Avaliações e Classificação]] · [[Pedido]] · [[Produto]] · [[Estabelecimento]] · [[Cliente]] · [[Fluxos Principais]]
+[[Avaliação]] · [[Classificação e Reputação]] · [[Endpoints de Avaliação]] · [[Telas de Avaliação]] · [[Pedido]] · [[Produto]] · [[Estabelecimento]] · [[Cliente]] · [[Fluxos Principais]]

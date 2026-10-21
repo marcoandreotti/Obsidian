@@ -5,7 +5,7 @@ MOC do modelo do negócio implementado em `src/OrderHub.Domain/`. A solução us
 ## Navegação
 
 - [[05 - Domínio/Contextos de Negócio|Contextos de Negócio]] · [[05 - Domínio/Entidades|Entidades]] · [[05 - Domínio/Regras de Negócio|Regras de Negócio]] · [[05 - Domínio/Glossário|Glossário]]
-- Conceitos: [[Tenant]], [[Estabelecimento]], [[Multi-tenancy]], [[Provisionamento de Tenant]], [[Usuário Administrativo]], [[Pedido]], [[Produto]], [[Cliente]], [[Disponibilidade]], [[Pagamento]], [[Cupom]], [[Região de Entrega]], [[Avaliação]], [[Classificação e Reputação]] (proposta do cofre, não implementada).
+- Conceitos: [[Tenant]], [[Estabelecimento]], [[Multi-tenancy]], [[Provisionamento de Tenant]], [[Usuário Administrativo]], [[Pedido]], [[Produto]], [[Cliente]], [[Disponibilidade]], [[Pagamento]], [[Cupom]], [[Região de Entrega]], [[Avaliação]], [[Classificação e Reputação]].
 - Pedido: [[Fluxo de Pedido]] · [[Entidades de Pedido]] · [[Regras de Pedido]] · [[Endpoints de Pedido]] · [[Telas de Pedido]].
 - Catálogo: [[Produto e Catálogo]].
 

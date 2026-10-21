@@ -1,6 +1,6 @@
 # Classificação e Reputação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): não existe coluna, tabela, read model ou campo de média/contagem de avaliação em `src/` nem em `openspec/specs/`.
+> **Estado:** implementada no change `add-customer-reviews`, com sumário síncrono por unidade/produto e leituras públicas tenant-scoped.
 
 Classificação é a **agregação das avaliações publicadas** de um alvo — estabelecimento ou produto — em média, contagem e distribuição por nota. Reputação é o uso dessa classificação na exibição pública; nenhum dos dois altera estado operacional do pedido. Regra de origem em [[Avaliação]].
 

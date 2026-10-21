@@ -15,7 +15,7 @@ Estado em 2026-10-07: as três últimas linhas acima foram **arquivadas** em 202
 
 Reconferência em 2026-10-07 (checkout `6384863`): `improve-kitchen-display`, `improve-operations-order-filtering` e `localize-user-facing-messages` foram arquivadas em 2026-10-06; as changes ativas hoje são as três primeiras da tabela.
 
-Proposta ainda **não submetida ao OpenSpec**: `add-customer-reviews` — avaliações de restaurante e de produtos pelo usuário público, nota de 1 a 5 com comentário obrigatório abaixo de 3; esboço de spec, tarefas e riscos em [[Proposta - Avaliações e Classificação]].
+`add-customer-reviews` foi implementada e está em processo de sincronização/arquivamento no OpenSpec — avaliações de restaurante e produtos pelo usuário público, nota de 1 a 5 com comentário obrigatório abaixo de 3, moderação e classificação publicada. A documentação vigente está em [[Avaliações e Classificação]], [[Avaliação]], [[Classificação e Reputação]], [[Endpoints de Avaliação]] e [[Telas de Avaliação]].
 
 Consulte `openspec/changes/` e leia `proposal.md`, specs delta e `tasks.md` antes de alterar. Checklist OpenSpec não confirma deploy ou release. [[10 - Evolução/Estado Atual|Estado Atual]]
 

@@ -1,6 +1,6 @@
 # Endpoints de Avaliação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): os grupos públicos existentes são apenas `/api/public/ordering` (`src/OrderHub.Api/PublicOrdering/PublicOrderingEndpoints.cs`) e o catálogo público (`src/OrderHub.Api/Catalog/CatalogEndpoints.cs`), ambos `AllowAnonymous()`; não há rota de avaliação.
+> **Estado:** implementada no change `add-customer-reviews`. Rotas públicas cobrem situação, publicação, listagem e resumo; rotas administrativas cobrem listagem, aprovação, reprovação, ocultação e restauração sob policy `Management`.
 
 Convenções a seguir: Minimal APIs em `internal static class <X>Endpoints` com `Map<X>Endpoints`, registro em `Program.cs`, DTOs `sealed record` em `src/OrderHub.Contracts/<Módulo>/` (nunca entidades), metadados `.Produces*` e erros pelo `GlobalExceptionMiddleware`. Ver [[Módulos e Endpoints]] e [[Camadas da API]].
 

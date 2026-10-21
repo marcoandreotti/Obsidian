@@ -1,6 +1,6 @@
 # Avaliação
 
-> **Estado:** proposta do cofre, **não implementada**. Verificado no checkout `6384863` (2026-10-07): não existe entidade, tabela, contrato, endpoint, VO `Rating` nem spec de avaliação em `src/`, `tests/` ou `openspec/specs/`. Regra central e jornada em [[Avaliações e Classificação]].
+> **Estado:** implementada no change `add-customer-reviews`: `Rating`, `Review`, estados de moderação, request idempotente e histórico persistido em `src/OrderHub.Domain/Reviews/` e `reviews`.
 
 Registro pelo qual o consumidor que concluiu um pedido atribui **nota de 1 a 5** ao **estabelecimento** e aos **produtos** comprados, com **comentário obrigatório quando a nota é menor que 3**.
 
@@ -8,7 +8,7 @@ Registro pelo qual o consumidor que concluiu um pedido atribui **nota de 1 a 5**
 
 ## Por que um módulo novo
 
-O módulo `Reviews/` não existe hoje; a proposta segue a organização atual (`src/OrderHub.Domain/<Módulo>/`). Alternativas consideradas: acrescentar a avaliação ao agregado `Order` (rejeitada: pedido é imutável após confirmação e não deve crescer com opinião do consumidor) e anexar ao `Catalog` (rejeitada: avaliação de produto depende de pedido, não de catálogo, e a de estabelecimento não é catálogo).
+O módulo `Reviews/` permanece separado do agregado `Order` e do `Catalog`: avaliação de produto depende de pedido, enquanto a de estabelecimento não é catálogo.
 
 ## Campos propostos
 
@@ -45,7 +45,7 @@ Regra de negócio pertence ao domínio ([[Regras de Negócio]]); o repositório 
 
 ## Eventos propostos
 
-`ReviewPublished`, `ReviewUpdated`, `ReviewHidden`, `ReviewRestored` publicados via outbox (`[[ADR-003 - Transactional Outbox]]`) para atualizar o sumário de classificação. Alternativa: recalcular de forma síncrona na mesma transação. Decisão pendente — ver [[Proposta - Avaliações e Classificação]].
+O sumário de classificação é atualizado de forma síncrona na mesma transação de aprovação, ocultação ou restauração; não há edição após publicação.
 
 ## Testes propostos
 

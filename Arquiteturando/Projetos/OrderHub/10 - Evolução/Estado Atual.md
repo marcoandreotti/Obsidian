@@ -27,7 +27,7 @@ Fonte: pastas `openspec/changes/<change>/`; contagens são checklist, não prova
 
 Checkout em `6384863`, árvore limpa: dois commits depois do snapshot acima. O commit `6384863` arquivou em 2026-10-06 `improve-kitchen-display`, `improve-operations-order-filtering` e `localize-user-facing-messages`. Changes ativas passam a ser `add-ai-customer-agent`, `add-audit-trail` e `add-observability`.
 
-Proposta em estudo, **não implementada**: avaliações de restaurante e de produtos pelo usuário público — [[Avaliações e Classificação]] e [[Proposta - Avaliações e Classificação]].
+Implementado no change `add-customer-reviews`: avaliações de restaurante e produtos pelo usuário público, com aprovação, ocultação/restauração, classificação publicada e histórico de moderação — [[Avaliações e Classificação]].
 
 Relacionados: [[01 - Produto/Estado Atual do Produto|Estado do Produto]], [[Backlog Técnico]], [[Dívidas Técnicas]], [[Melhorias Identificadas]].
 
